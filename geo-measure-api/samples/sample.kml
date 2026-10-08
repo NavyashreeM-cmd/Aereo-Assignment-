@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Farm plot</name>
+      <ExtendedData><Data name="owner"><value>Ravi</value></Data></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>
+        76.9558,11.0168,0 76.9658,11.0168,0 76.9658,11.0268,0 76.9558,11.0268,0 76.9558,11.0168,0
+      </coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Access road</name>
+      <LineString><coordinates>76.9558,11.0168 76.9658,11.0268</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Borewell</name>
+      <Point><coordinates>76.9608,11.0218</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
